@@ -29,7 +29,7 @@ I have experience with Python, pandas, scikit-learn, numerical methods, and appl
 
 ## Featured Projects
 
-### 1. [Airbnb Price Prediction](https://github.com/laulbrt/airbnb-project)
+### 1. [Airbnb Price Prediction](https://github.com/laulbrt/Airbnb_Price_Prediction.git)
 Supervised ML pipeline predicting Airbnb prices using numerical, categorical and textual features.  
 Includes EDA, TF-IDF processing, model comparison, and final predictions.
 
