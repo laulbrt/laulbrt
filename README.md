@@ -37,15 +37,15 @@ Includes EDA, TF-IDF processing, model comparison, and final predictions.
 Data extraction, cleaning, and modeling using football match data (lineups, events, player stats).  
 End-to-end ML pipeline predicting match outcomes.
 
-### 3. [EDP Numerical Simulation](https://github.com/laulbrt/projet-edp)
+### 3. [EDP Numerical Simulation](https://github.com/laulbrt/Partial_Differential_Equations_-PDE-_Project.git)
 Study and simulation of partial differential equations.  
 Implementation of stable numerical schemes, error analysis, convergence, and validation.
 
-### 4. [Python Data Processing Project](https://github.com/laulbrt/projet-python)
+### 4. [Python Data Processing Project](https://github.com/laulbrt/Python_Data_Processing_and_Analysis_Project.git)
 Data consolidation, cleaning, and transformation from multiple CSV files.  
 Automated processing scripts and reproducible notebooks.
 
-### 5. [VeloMax Application](https://github.com/laulbrt/VeloMax)
+### 5. [VeloMax Application](https://github.com/laulbrt/VeloMax.git)
 Full management application (customers, orders, stock, suppliers) with XML data storage.  
 Clean OOP architecture, structured UI, multilayer logic.
 
