@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Email-laura.labarthe%40edu.devinci.fr-blue?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/laura-labarthe-a434522a0">
+    <img src="https://img.shields.io/badge/LinkedIn-laura--labarthe-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/laulbrt">
     <img src="https://img.shields.io/badge/GitHub-laulbrt-181717?style=flat-square&logo=github"/>
   </a>
