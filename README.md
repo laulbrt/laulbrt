@@ -69,9 +69,7 @@ Currently seeking a **4–6 month Data / ML / AI internship starting April 2026*
 
 ### Knowledge Engineering & Information Retrieval
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**web-datamining-projet**](https://github.com/laulbrt/web-datamining-projet) | End-to-end Space Exploration Knowledge Graph: web crawling → NER → RDF KB (~80k triples) → SWRL reasoning → Knowledge Graph Embeddings → RAG with NL→SPARQL. | `spaCy` `RDF` `SPARQL` `PyKEEN` `Ollama` |
+
 
 ### Machine Learning & Optimization
 
